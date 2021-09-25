@@ -1,0 +1,28 @@
+PRAKTIKUM
+https://colab.research.google.com/
+offline jupiter
+bahasa python
+
+logika fuzzzy bagaimana menjembatani bhs manusia ke mesin
+ lawan dari tegas
+agar bijak pencariannya
+
+sistem pakar
+menguasaia 1 bahasa pemrograman
+aplikasi yang mengantikan profesi tertentu
+
+sistem penalaran komp berbasis kasus case base listening
+mencari kasus yg menyerupai kasus sebelumnya
+
+bahasa alami
+
+jar syaraf tiruan
+bagaimana agar di develop yg bnr sprti apa, di ulang hingga benar,
+ sehingga di im
+data image menjadi text 
+
+inisiatif robot itu sendiri juga blm?
+
+
+upload file csv agar di baca
+cara running python di collab google
